@@ -1,0 +1,16 @@
+{
+  "head": {
+    "/": {
+      "id": "/",
+      "middleware": [
+        "\\THIS\\Is\\A\\Sample"
+      ],
+      "template": "sample/text/goes/here/cl/cl-01/cl-01.html"
+    },
+    "/sample/": {
+      "id": "/sample/",
+      "template": "sample/text/goes/here/also/cl/cl-01/cl-01.html"
+    }
+  }
+  }
+}
